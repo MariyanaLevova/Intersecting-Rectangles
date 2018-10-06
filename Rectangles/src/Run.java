@@ -4,6 +4,11 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/** Run
+ * A class to run the Intersecting Rectangles
+ * program. Calls methods from  class JsonSimpleReader 
+ * and class IntersectingRectangles.
+ **/
 public class Run {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
